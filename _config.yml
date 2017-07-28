@@ -1,14 +1,24 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Stellar Machine
+email: Dave.morgan@stellarmachine.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Stellar Machine Inc. offers services of fabrication, welding, machine shop, mechanical engineering, turn-key machine building, millwright & rigging services.
+
+We also offer you ON-SITE fabrication and alignment, as well as maintenance support specialists.
+
+Our high precision, quick turnaround times and competitive costs add value to your parts or your machines.
+
+We offer 24-7 NATIONWIDE service.
+
+We pick up and deliver.
+
+Our services work on pneumatic, hydraulic and motion control systems.
+
+Contact us for further information, references or a quote on your next project!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://stellar-machine.netlify.com/" # the base hostname & protocol for your site
+github_username:  russ3llc
 
 # Build settings
 markdown: kramdown
+https://github.com/russ3llc/stellar-machine.git
