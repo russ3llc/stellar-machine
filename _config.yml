@@ -2,19 +2,7 @@
 title: Stellar Machine
 email: Dave.morgan@stellarmachine.com
 description: > # this means to ignore newlines until "baseurl:"
-Stellar Machine Inc. offers services of fabrication, welding, machine shop, mechanical engineering, turn-key machine building, millwright & rigging services.
-
-We also offer you ON-SITE fabrication and alignment, as well as maintenance support specialists.
-
-Our high precision, quick turnaround times and competitive costs add value to your parts or your machines.
-
-We offer 24-7 NATIONWIDE service.
-
-We pick up and deliver.
-
-Our services work on pneumatic, hydraulic and motion control systems.
-
-Contact us for further information, references or a quote on your next project!
+This will be the description for Stellar Machine. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://stellar-machine.netlify.com/" # the base hostname & protocol for your site
 github_username:  russ3llc
